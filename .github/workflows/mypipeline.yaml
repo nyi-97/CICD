@@ -3,7 +3,7 @@ on:
 - push
 
 jobs:
-	my_first_pipeline
+	my_first_pipeline:
 		runs-on: ubuntu-latest
 	
 	steps:
