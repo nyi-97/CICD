@@ -1,0 +1,21 @@
+name: building .net application
+on:
+  push:
+
+jobs:
+  build_dot_net:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: setup dotnet sdk
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: checkout your source
+        uses: actions/checkout@v3
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: list filesystem
+        run: ls
