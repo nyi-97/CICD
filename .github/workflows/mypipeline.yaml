@@ -6,12 +6,18 @@ jobs:
 	my_first_pipeline:
 		runs-on: ubuntu-latest
 	
-	steps:
-	- name: Greetings
-		run: echo "Hello World"
-	
-	- name: what is the time on the runner
-		run: date
+		steps:
+		- name: Greetings
+			run: echo "Hello World"
 
-	- name: list filesystem
-		run: ls -l /
+		- name: what is the time on the runner
+			run: date
+
+		- name: list filesystem
+			run: ls -l /
+		
+		-name: Cowsay Something
+			uses: mscourtermarsh/cowsays-action@master
+			with:
+				text: ${{ github.event.head_commit.message }}
+				color: 'white'
