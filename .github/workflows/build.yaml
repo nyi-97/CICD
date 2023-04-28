@@ -15,5 +15,11 @@ jobs:
       - name: checkout your source
         uses: actions/checkout@v3
 
-      - name: list filesystem
-        run: ls -l
+      - name: list filesystem before build
+        run: ls -lR NON_GRADED_WORKSHOP_JAVASCRIPT/bin
+
+      - name: build app
+        run: dotnet build
+      
+      - name: list filesystem after build
+        run: ls -lR NON_GRADED_WORKSHOP_JAVASCRIPT/bin
