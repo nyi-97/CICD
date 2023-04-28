@@ -1,6 +1,6 @@
 name: My First Workflow
 on:
-- push
+	- push
 
 jobs:
 	my_first_pipeline:
