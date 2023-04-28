@@ -1,0 +1,47 @@
+﻿using Microsoft.Extensions.Caching.Memory;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Game/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Game}/{action=Index}/{id?}");
+
+InitCache(app.Services);
+
+app.Run();
+
+void InitCache(IServiceProvider serviceProvider)
+{
+	var cache = serviceProvider.GetRequiredService<IMemoryCache>();
+
+	cache.Set("turn", "player1");
+
+	// initialize the board to empty
+	cache.Set("board", new char[,] {
+		{ ' ', ' ', ' ' },
+		{ ' ', ' ', ' ' },
+		{ ' ', ' ', ' ' },
+	});
+}
+
+

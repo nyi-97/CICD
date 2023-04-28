@@ -1,0 +1,93 @@
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe.staticwebassets.runtime.json
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.TicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.build.TicTacToe.props
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TicTacToe.props
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TicTacToe.props
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/scopedcss/bundle/TicTacToe.styles.css
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cherwah/git_repos/NET3/TicTacToe/obj/Debug/net6.0/scopedcss/projectbundle/TicTacToe.bundle.scp.css
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe.staticwebassets.runtime.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.RazorAssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.TicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.build.TicTacToe.props
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TicTacToe.props
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TicTacToe.props
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/scopedcss/bundle/TicTacToe.styles.css
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/scopedcss/projectbundle/TicTacToe.bundle.scp.css
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/cherwah/git_repos/NET3/Workshops/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\appsettings.Development.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\appsettings.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.staticwebassets.runtime.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.MvcApplicationPartsAssemblyInfo.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.RazorAssemblyInfo.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.RazorAssemblyInfo.cs
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets\msbuild.TicTacToe.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets\msbuild.build.TicTacToe.props
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TicTacToe.props
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TicTacToe.props
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\scopedcss\bundle\TicTacToe.styles.css
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\scopedcss\projectbundle\TicTacToe.bundle.scp.css
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+D:\My Files\NUS SA56\Asp.Net\Source\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll

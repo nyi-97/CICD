@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Game";
+
+    var board = ViewBag.board;
+}
+
+@section Scripts
+{
+    <script src="/js/game.js"></script>
+}
+
+<table>
+    @for (int i = 0; i < 3; i++)
+    {
+        <tr>
+            @for (int j = 0; j < 3; j++)
+            {
+                string cell_id = i + "_" + j;
+
+                <td id=@cell_id class="cell">
+
+                    @board[i, j]
+
+                </td>
+            }
+        </tr>
+    }
+</table>
+
+<div id="msg"></div>
